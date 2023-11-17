@@ -1,4 +1,4 @@
-# Data-Science-and-Analytics-Virtual-Internship-BCG-Forage-
+# Data-Science-and-Advanced-Analytics-Virtual-Internship-BCG-Forage-
 ## Task 1 Background
 PowerCo is a major gas and electricity utility that supplies to corporate, SME (Small & Medium Enterprise), and residential customers. The power-liberalization of the energy market in Europe has led to significant customer churn, especially in the SME segment. They have partnered with BCG to help diagnose the source of churning SME customers.
 
